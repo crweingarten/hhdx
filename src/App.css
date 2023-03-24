@@ -1,8 +1,7 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&display=swap');
 
-body {  
-  background-color:#1E1E1E;
+body {
+  background-color: #1E1E1E;
   font-family: 'Montserrat';
   font-style: normal;
 }
@@ -24,105 +23,174 @@ body {
 }
 
 .release-header {
-position: absolute;
-width: 330px;
-height: 56px;
-left: 15px;
-top: 17px;
-font-weight: 900;
-font-size: 23px;
-line-height: 28px;
-display: flex;
-align-items: center;
-color: #FFFFFF;
-text-transform: uppercase;
+  position: absolute;
+  width: 330px;
+  height: 56px;
+  left: 15px;
+  top: 17px;
+  font-weight: 900;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+  text-transform: uppercase;
 }
 
 .release-subhead {
-box-sizing: border-box;
-position: absolute;
-width: 293px;
-height: 37px;
-left: 15px;
-top: 69px;
-font-weight: 500;
-font-size: 13px;
-line-height: 19px;
-text-transform: uppercase;
-background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.827451) 58.62%, #000000 100%);  display: flex;
-color: transparent
+  box-sizing: border-box;
+  position: absolute;
+  width: 293px;
+  height: 37px;
+  left: 15px;
+  top: 69px;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 19px;
+  text-transform: uppercase;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.827451) 58.62%, #000000 100%);
+  display: flex;
+  color: transparent
 }
 
-.release-subhead.open{
-width: 330px;
-height: 57px;
-left: 15px;
-top: 78px;
-color: #838383;
+.release-subhead.open {
+  width: 330px;
+  height: 57px;
+  left: 15px;
+  top: 78px;
+  color: #838383;
 }
 
 .release-more {
-position: absolute;
-width: 33px;
-height: 11px;
-left: 298.66px;
-top: 82px;
-font-weight: 500;
-font-size: 9px;
-line-height: 11px;
-text-align: center;
-letter-spacing: 0.15em;
-color: #838383;
+  position: absolute;
+  width: 33px;
+  height: 11px;
+  left: 298.66px;
+  top: 82px;
+  font-weight: 500;
+  font-size: 9px;
+  line-height: 11px;
+  text-align: center;
+  letter-spacing: 0.15em;
+  color: #838383;
+  text-transform: uppercase;
+}
+
+.release-less {
+  position: absolute;
+  width: 33px;
+  height: 11px;
+  left: 298.66px;
+  top: 150px;
+  font-weight: 500;
+  font-size: 9px;
+  line-height: 11px;
+  text-align: center;
+  letter-spacing: 0.15em;
+  color: #838383;
+  text-transform: uppercase;
 }
 
 .timeline {
-width: 330px;
-height: 681px;
-left: 15px;
-top: 194px;
+  width: 330px;
+  height: 681px;
+  left: 15px;
+  top: 194px;
 }
 
 .scroller {
-width: 360px;
-height: 743px;
-padding-top: 183px;
-background: -webkit-linear-gradient(125deg, #2c2150, #80212b);
+  width: 360px;
+  height: 743px;
+  padding-top: 183px;
+  background: -webkit-linear-gradient(125deg, #2c2150, #80212b);
+}
+
+.date {
+  width: 236px;
+  height: 20px;
+  left: 109px;
+  padding-top: 20px;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
 }
 
 .artist {
-width: 236px;
-height: 35px;
-left: 109px;
-top: 246px;
-font-weight: 800;
-font-size: 18px;
-line-height: 18px;
-display: flex;
-align-items: center;
-color: #0093FF;}
-
-.date {
-width: 49px;
-height: 0px;
-left: 15px;
-top: 303px;
-padding: 10px;
-font-weight: 500;
-font-size: 10px;
-line-height: 0px;
-display: flex;
-align-items: center;
-color: #FFFFFF;}
+  width: 236px;
+  left: 109px;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #0093FF;
+}
 
 .album {
-width: 236px;
-height: 35px;
-left: 109px;
-top: 246px;
-font-weight: 800;
-font-size: 18px;
-line-height: 18px;
-display: flex;
-align-items: center;
-color: white;}
- 
+  width: 236px;
+  left: 109px;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.month-header {
+  width: 330px;
+  height: 40px;
+  left: 15px;
+  font-weight: 900;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+
+.month-container {
+  display: flex;
+  width: 360px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.month-picker {
+  display: flex;
+  width: 80px;
+  height: 80px;
+  background: #FFC10E;
+  border: 1px solid black;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+}
+
+.month-disabled {
+  display: flex;
+  width: 80px;
+  height: 80px;
+  background: gray;
+  border: 1px solid black;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+}
+
+.month-selected {
+  display: flex;
+  width: 80px;
+  height: 80px;
+  background: red;
+  border: 1px solid black;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+
+
+}

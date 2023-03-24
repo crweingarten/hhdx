@@ -1,0 +1,254 @@
+[
+    {
+        "artist": "B. Cool Aid (Pink Siifu and Ahwlee)",
+        "album": "Leather Blvd.",
+        "date": "2023-03-31",
+        "id": 211,
+        "review": ""
+    },
+    {
+        "artist": "Baby Rose",
+        "album": "Through and Through",
+        "date": "2023-04-28",
+        "id": 2018,
+        "review": ""
+    },
+    {
+        "artist": "Black Thought & El Michels Affair",
+        "album": "Glorious Game",
+        "date": "2023-04-28",
+        "id": 45,
+        "review": ""
+    },
+    {
+        "artist": "Chief Keef",
+        "album": "Almighty So 2",
+        "date": "2023-04-14",
+        "id": 1045,
+        "review": ""
+    },
+    {
+        "artist": "Chlöe",
+        "album": "In Pieces",
+        "date": "2023-03-24",
+        "id": 202,
+        "review": ""
+    },
+    {
+        "artist": "Consequence",
+        "album": "TBA (EXACT DATE TBD)",
+        "date": "2023-05-28",
+        "id": 902,
+        "review": ""
+    },
+    {
+        "artist": "Conway the Machine",
+        "album": "Won't He Do It",
+        "date": "2023-03-24",
+        "id": 107,
+        "review": ""
+    },
+    {
+        "artist": "Daniel Caesar",
+        "album": "NEVER ENOUGH",
+        "date": "2023-04-11",
+        "id": 10012,
+        "review": ""
+    },
+    {
+        "artist": "Fly Anakin & Foisey",
+        "album": "Skinemaxxx",
+        "date": "2023-04-07",
+        "id": 59,
+        "review": ""
+    },
+    {
+        "artist": "Ghostface Killah",
+        "album": "TBA",
+        "date": "2023-03-20",
+        "id": 101,
+        "review": ""
+    },
+    {
+        "artist": "Offset",
+        "album": "TBA",
+        "date": "2023-04-11",
+        "id": 1044,
+        "review": ""
+    },
+    {
+        "artist": "Smino",
+        "album": "She Already Decided 2",
+        "date": "2023-04-20",
+        "id": 1011,
+        "review": ""
+    },
+    {
+        "artist": "Yaya Bey",
+        "album": "Exodus the North Star",
+        "date": "2023-03-20",
+        "id": 104,
+        "review": ""
+    },
+    {
+        "artist": "YUNGMORPHEUS",
+        "album": "From Where It Came",
+        "date": "2023-05-10",
+        "id": 901,
+        "review": ""
+    },
+    {
+        "artist": "30 Deep Grimeyy",
+        "album": "Let Me In",
+        "date": "2023-02-02",
+        "id": 401,
+        "review": ""
+    },
+    {
+        "artist": "Philthy Rich",
+        "album": "Weekend In LA",
+        "date": "2023-02-03",
+        "id": 402,
+        "review": ""
+    },
+    {
+        "artist": "Rx Papi & DatBoiWill",
+        "album": "Marlo",
+        "date": "2023-02-03",
+        "id": 403,
+        "review": ""
+    },
+    {
+        "artist": "Lance Skiiiwalker",
+        "album": "Audiodidactic",
+        "date": "2023-02-10",
+        "id": 404,
+        "review": ""
+    },
+    {
+        "artist": "Boosie Badazz",
+        "album": "Lines For Valentines",
+        "date": "2023-02-14",
+        "id": 405,
+        "review": ""
+    },
+    {
+        "artist": "Mourning Due",
+        "album": "Nappy Nina",
+        "date": "2023-02-16",
+        "id": 406,
+        "review": ""
+    },
+    {
+        "artist": "ALLBLACK",
+        "album": "Born To Score",
+        "date": "2023-02-24",
+        "id": 407,
+        "review": ""
+    },
+    {
+        "artist": "Logic",
+        "album": "College Park",
+        "date": "2023-02-24",
+        "id": 408,
+        "review": "https://hiphopdx.com/reviews/logic-college-park-album-review"
+    },
+    {
+        "artist": "Tink",
+        "album": "Thanks 4 Nothing",
+        "date": "2023-02-24",
+        "id": 409,
+        "review": ""
+    },
+    {
+        "artist": "Yung Nudy",
+        "album": "Gumbo",
+        "date": "2023-02-28",
+        "id": 410,
+        "review": "https://hiphopdx.com/reviews/young-nudy-gumbo-album-review"
+    },
+    {
+        "artist": "NBA YoungBoy",
+        "album": "I Rest My Case",
+        "date": "2023-01-06",
+        "id": 411,
+        "review": "https://hiphopdx.com/reviews/nba-youngboy-i-rest-my-case-album-review"
+    },
+    {
+        "artist": "03 Greedo",
+        "album": "Free 03",
+        "date": "2023-01-09",
+        "id": 412,
+        "review": ""
+    },
+    {
+        "artist": "ZelooperZ",
+        "album": "Might Not Make It",
+        "date": "2023-01-13",
+        "id": 413,
+        "review": ""
+    },
+    {
+        "artist": "Boldy James",
+        "album": "Indiana Jones",
+        "date": "2023-01-20",
+        "id": 414,
+        "review": "https://hiphopdx.com/reviews/boldy-james-rich-gains-indiana-jones-review"
+    },
+    {
+        "artist": "Trippie Redd",
+        "album": "Mansion Musik",
+        "date": "2023-01-20",
+        "id": 415,
+        "review": "https://hiphopdx.com/reviews/trippie-redd-mansion-musik-album-review"
+    },
+    {
+        "artist": "Ice Spice",
+        "album": "Like...?",
+        "date": "2023-01-20",
+        "id": 416,
+        "review": "https://hiphopdx.com/reviews/ice-spice-like-album-review"
+    },
+    {
+        "artist": "Oddisee",
+        "album": "To What End",
+        "date": "2023-01-20",
+        "id": 417,
+        "review": ""
+    },
+    {
+        "artist": "Lil Yachty",
+        "album": "Let's Start Here",
+        "date": "2023-01-27",
+        "id": 418,
+        "review": "https://hiphopdx.com/reviews/lil-yachty-lets-start-here-review"
+    },
+    {
+        "artist": "Popcaan",
+        "album": "Great He Is",
+        "date": "2023-01-27",
+        "id": 419,
+        "review": ""
+    },
+    {
+        "artist": "Bouba Savage",
+        "album": "It's Amazing Win a Lot",
+        "date": "2023-01-27",
+        "id": 420,
+        "review": ""
+    },
+    {
+        "artist": "Liv.e",
+        "album": "Girl In The Half Pearl",
+        "date": "2023-02-10",
+        "id": 421,
+        "review": "https://hiphopdx.com/reviews/liv-e-girl-in-the-half-pearl-album-review"
+    },
+    {
+        "artist": "Key Glock",
+        "album": "Glockoma 2",
+        "date": "2023-02-24",
+        "id": 422,
+        "review": "https://hiphopdx.com/reviews/key-glock-glockoma-2-album-review"
+    }
+]
